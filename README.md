@@ -22,3 +22,5 @@ You'll need to create a new node server. Open a new terminal within the project 
 Run `npm run build` to run the build script in `package.json`
 
 Run `eb init` to create a new Elastic Beanstalk application then run `eb create` a new EB environment to deploy your image-filter service! Don't forget you can use `eb deploy` to push changes.
+
+Endpoint URL: http://udagram-dev-02-dev.us-east-1.elasticbeanstalk.com/
